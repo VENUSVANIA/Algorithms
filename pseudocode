@@ -1,11 +1,17 @@
-student Grades:
-A= grade 1
-B= grade 2
-C= grade 3
+Declare:
 
-calculate Grade avegrage:
-A+B+C/3
-=average
+Grade1 = INPUT
+Grade2 = INPUT
+Grade3 = INPUT
+Average
+status
+-----------------------------------
 
-If grade = <60 print {Pass}
-If grade = > 60 print { Fail}
+Average = Grade1+Grade2+Grade3/3
+
+status=
+If average  <=60 status {Pass}
+If average > =60 status { Fail}
+
+Print status
+Print average 
