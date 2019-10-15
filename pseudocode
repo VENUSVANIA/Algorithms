@@ -1,0 +1,11 @@
+student Grades:
+A= grade 1
+B= grade 2
+C= grade 3
+
+calculate Grade avegrage:
+A+B+C/3
+=average
+
+If grade = <60 print {Pass}
+If grade = > 60 print { Fail}
