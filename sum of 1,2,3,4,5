@@ -1,0 +1,12 @@
+start point
+end point 
+action
+
+
+var sum =0
+var i;
+
+for (let i=0;i<6;i++)
+{sum= sum +i;
+console.log(i);}
+alert(sum);
