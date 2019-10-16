@@ -1,7 +1,17 @@
 Prime number has 2 qualities all positive, all bigger than 1
               only factor are 1 and itself 
 for number in range 2(,possible Prime):
-If possible Prime % num =0
-IsPrime= False
 
+
+number=1
+divisor=2
+remainder
+
+If (number <2)
+    Print "Its not prime!"
+    Number +=1
+    Process again
+ If ( number =2)
+      print "number is prime"
+    Number+=1
 
