@@ -1,0 +1,32 @@
+n ! = n ( n - 1)( n - 2)( n - 3)
+
+sum=1
+number=(user input)
+
+
+process:
+          sum*=number
+          number -=1
+
+if number >0 
+           repeat the process
+
+else
+     stop
+Print sum
+
+
+
+
+
+
+
+translated to a progamming lang for loop:
+
+var sum =1;
+var number;
+for (number=5;number>0;number-=1){
+sum*=number;
+}
+alert (sum);
+console.log(sum);
