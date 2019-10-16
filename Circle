@@ -1,4 +1,0 @@
-Read r,h
-volume= 3.14*radius*radius*height
-surface area = 2*3.14*radius*radius+2*3.14*radius*height
-output volume,sureface area 
