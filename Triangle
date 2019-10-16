@@ -1,7 +1,5 @@
-var h = height
-var b = base
-var A = Area
-
-A =(H*B)/2
-
-Print T
+Height (h) = Input
+Base (b) =Input
+Area = A
+A = (h*B)/2
+Print Area
