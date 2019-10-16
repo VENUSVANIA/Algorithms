@@ -1,0 +1,5 @@
+width (W)= Input
+Lenght (l)= Input
+Area =A
+A= w * l
+Print Area
