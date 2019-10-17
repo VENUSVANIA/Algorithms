@@ -1,0 +1,21 @@
+Algorithms: 
+Pseudocode:
+
+
+DECLARE:
+Var Rain
+
+PROCESS:
+If (Rain= True)
+{Take Umbrella}
+
+Else {don't take it}
+
+
+Converting the above to JAVA script:
+
+var Rain=0;
+
+if( Rain==0){
+   console.log("Take your umbrella");
+}else{console.log("don't take it");}
