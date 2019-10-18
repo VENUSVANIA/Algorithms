@@ -1,5 +1,7 @@
+var kg
+var lb
+
+
 m(kg) = m(lb) × 0.45359237
 
-var m
-var sum
-sum=m x 0.45359237
+
