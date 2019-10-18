@@ -1,0 +1,6 @@
+
+
+var kg
+var lb
+
+m(lb) = m(kg) / 0.45359237
